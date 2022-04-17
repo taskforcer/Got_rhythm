@@ -169,8 +169,8 @@ rhythmus R_array[ MAX_RHYTHMEN ] =
 {     // vier Schläge
   4,
   {0, 500, 1000, 2000, 0, 0, 0, 0, 0, 0, 0, 0}, // Lage der Beats
-  {-200, -200, -200, -300, 0, 0, 0, 0, 0, 0, 0, 0},// Toleranz nach früh
-  {200, 200, 200, 300, 0, 0, 0, 0, 0, 0, 0, 0}       // Toleranz nach spät
+  {-200, -300, -300, -300, 0, 0, 0, 0, 0, 0, 0, 0},// Toleranz nach früh
+  {200, 300, 300, 300, 0, 0, 0, 0, 0, 0, 0, 0}       // Toleranz nach spät
 },
 
 {     // vier Schläge
